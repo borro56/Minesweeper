@@ -1,6 +1,6 @@
 # Minesweeper
 
-[<h2>Builds</h2>](https://drive.google.com/file/d/182CNDSQ-u_5K3hmkRfHH8NMQQ97bApVC/view?usp=sharing)
+[<h2>Download Build</h2>](https://drive.google.com/file/d/182CNDSQ-u_5K3hmkRfHH8NMQQ97bApVC/view?usp=sharing)
 
 Exercise about a Minesweeper game using Canvas and MVP
 
